@@ -9,6 +9,7 @@ public class Motorcycle extends Vehicle{
     public void stop() {
         System.out.println("stopping quickly");
     }
+
     @Override
     public void  start() {
         System.out.println("starting with a rev");
